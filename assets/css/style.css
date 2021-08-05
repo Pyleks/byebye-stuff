@@ -37,3 +37,9 @@
 .card-header {
     background-color: #9ca7b0 !important;
 }
+
+@media (max-width: 800px) {
+    .money_size {
+        font-size: 1.2em;
+    }
+}

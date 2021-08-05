@@ -1,0 +1,39 @@
+.money_size {
+    font-size: 1.5em;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.fixed-warning {
+    position: fixed;
+    top: 56px;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: default;
+}
+
+.middle-marg {
+    margin: 0 !important;
+}
+
+.callout-marg {
+    margin: 5px 0 5px 0;
+}
+
+.top-marg {
+    margin-top: 15%;
+}
+
+.card-header {
+    background-color: #9ca7b0 !important;
+}

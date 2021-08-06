@@ -38,8 +38,15 @@
     background-color: #9ca7b0 !important;
 }
 
-@media (max-width: 800px) {
+.form-width {
+    width: 50%;
+}
+
+@media (max-width: 1000px) {
     .money_size {
         font-size: 1.2em;
+    }
+    .form-width {
+        width: 100%;
     }
 }
